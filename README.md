@@ -1,1 +1,1 @@
-# miniProject-ATM-System
+This "mini" ATM-System Project is programmed only using Object Oriented Programming Approach. All the concepts of OOPs (Class, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction) are used to create this simple and easy to use ATM System. 
